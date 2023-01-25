@@ -28,7 +28,7 @@ they continue to [[Cadence Family]] places encountering many people from all ove
 
 they join the evacuation
 
-but missing [[Altair]] presence, [[Aquila]] said that he will follow soon.
+but missing [[Altair Cadence]] presence, [[Aquila]] said that he will follow soon.
 
 they encounter dormant [[Light Creature]] 
 
@@ -109,10 +109,10 @@ and ask for scout to look for additional refugee from [[Arvheim]]
 
 asked around on [[Cadence Family]] found out about a house. [[Lyra]] shown her pendant 
 
-they met an [[Cadence Elder]] saying that [[Lyra]] are worthy to be given relic from [[Cadence Family]] 
+they met an [[Taurus]] saying that [[Lyra]] are worthy to be given relic from [[Cadence Family]] 
 
 and saying his wife are from [[Slavarony]] 
 
-[[Cadence Elder]] asked around from the party and recognized [[Kael]] as a familiar figure
+[[Taurus]] asked around from the party and recognized [[Kael]] as a familiar figure
 
 and mentioning [[Kael]] name meaning as "Hope" in old Valencia Language
