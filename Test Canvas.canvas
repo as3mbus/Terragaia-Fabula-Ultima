@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2ca0573cd6751090","x":-541,"y":-251,"width":400,"height":400,"type":"file","file":"Slavarony.md"},
+		{"id":"31ac4f8c7df6f154","x":183,"y":-451,"width":400,"height":400,"type":"file","file":"Player Character/Alexei.md"},
+		{"id":"3f2537ac47f242a6","x":183,"y":108,"width":400,"height":400,"type":"file","file":"Player Character/Hrojal.md"}
+	],
+	"edges":[
+		{"id":"12a4ba8775452e13","fromNode":"3f2537ac47f242a6","fromSide":"left","toNode":"2ca0573cd6751090","toSide":"right"},
+		{"id":"d0d7be41e1a52009","fromNode":"31ac4f8c7df6f154","fromSide":"left","toNode":"2ca0573cd6751090","toSide":"right"}
+	]
+}
